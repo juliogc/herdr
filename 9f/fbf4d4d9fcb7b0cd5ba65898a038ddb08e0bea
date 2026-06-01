@@ -1,0 +1,24 @@
+src/pane/terminal.rs
+  s_a4112f4b772c1d::t_872c4a7bedee6a 1946-2009
+src/ghostty/mod.rs
+  s_a4112f4b772c1d::t_4d398e19ebc8d3 560-567
+src/pane.rs
+  s_a4112f4b772c1d::t_444e17b813123e 1227
+  s_a4112f4b772c1d::t_dd5be5184d27ef 1339
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9ffbf4d4d9fcb7b0cd5ba65898a038ddb08e0bea",
+  "prompts": {},
+  "sessions": {
+    "s_a4112f4b772c1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf4c0f9c-cf0d-4601-8b9d-a53f559729a9",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "juliogc <jgcorradi@gmail.com>"
+    }
+  }
+}
