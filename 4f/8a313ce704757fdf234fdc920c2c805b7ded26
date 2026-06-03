@@ -1,0 +1,26 @@
+src/pane/terminal.rs
+  s_a4112f4b772c1d::t_f6bb1f37f0a0e2 2452
+  s_a4112f4b772c1d::t_bf8bd82c2c8529 2453,2455,2457,2461,2465-2470,2474-2475
+  s_a4112f4b772c1d::t_afdd6c5c4e845a 2454,2456,2458-2460
+  s_a4112f4b772c1d::t_00466cb49584ea 2463,2472
+src/pane.rs
+  s_a4112f4b772c1d::t_02084ff082df2b 1274-1276,1388-1389
+src/ghostty/mod.rs
+  s_a4112f4b772c1d::t_f2969e83b68e1b 588-589
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "4f8a313ce704757fdf234fdc920c2c805b7ded26",
+  "prompts": {},
+  "sessions": {
+    "s_a4112f4b772c1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf4c0f9c-cf0d-4601-8b9d-a53f559729a9",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "juliogc <jgcorradi@gmail.com>"
+    }
+  }
+}
